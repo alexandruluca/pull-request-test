@@ -1,19 +1,19 @@
 {
-  "name": "pull-request-test",
-  "version": "1.0.0",
-  "description": "test",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/alexandruluca/pull-request-test.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/alexandruluca/pull-request-test/issues"
-  },
-  "homepage": "https://github.com/alexandruluca/pull-request-test#readme"
+	"name": "pull-request-test",
+	"version": "1.0.0",
+	"description": "test",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/alexandruluca/pull-request-test.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/alexandruluca/pull-request-test/issues"
+	},
+	"homepage": "https://github.com/alexandruluca/pull-request-test#readme"
 }
