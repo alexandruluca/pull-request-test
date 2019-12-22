@@ -1,8 +1,6 @@
 {
 	"packageLocation": "",
-	"include": [
-	],
-	"exclude": [
-	],
+	"include": [],
+	"exclude": [],
 	"includeHiddenFilesAndFolders": false
 }
