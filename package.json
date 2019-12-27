@@ -1,6 +1,6 @@
 {
 	"name": "pull-request-test",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "test",
 	"main": "index.js",
 	"scripts": {
@@ -16,13 +16,13 @@
 		"url": "https://github.com/alexandruluca/pull-request-test/issues"
 	},
 	"homepage": "https://github.com/alexandruluca/pull-request-test#readme",
-	"buildVersion": "1.0.0-2/1",
+	"buildVersion": "1.0.0-1/1",
 	"pullRequestMeta": {
 		"actualCommit": "27deac367550108f21f7f5abf66ce10512ad0950",
 		"actualCommitAuthor": "luca.p.alexandru@gmail.com",
 		"actualCommitAuthorEmail": "luca.p.alexandru@gmail.com",
 		"pullDescription": "desc",
-		"pullId": "2",
+		"pullId": "1",
 		"pullLink": "https://github.com/alexandruluca/pull-request-test/pull/2",
 		"pullTitle": "lambda test",
 		"sourceBranch": "feature/1",
