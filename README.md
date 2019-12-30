@@ -11,4 +11,9 @@ wg
 
 weg
 w
-gweg
+gwegwegw
+gw
+eg
+we
+gw
+eg
